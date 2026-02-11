@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"650c79cb35ee4877","type":"file","file":"_resources/IMG_20250314_0010.jpg","x":-520,"y":-400,"width":237,"height":400},
+		{"id":"c24898fdfad1179c","type":"file","file":"_resources/IMG_20250314_0011.jpg","x":-240,"y":-460,"width":400,"height":333},
+		{"id":"1ff162a32d267e3f","type":"file","file":"_resources/IMG_20250314_0013.jpg","x":-260,"y":-80,"width":395,"height":400},
+		{"id":"bf023540cb0cf425","type":"file","file":"_resources/IMG_20250314_0014.jpg","x":200,"y":-500,"width":601,"height":440},
+		{"id":"10193c8fe4554b48","type":"file","file":"_resources/IMG_20250316_0001.jpg","x":181,"y":-26,"width":619,"height":346},
+		{"id":"a9128b9395366a62","type":"file","file":"_resources/IMG_20250320_0005.jpg","x":-816,"y":40,"width":533,"height":295},
+		{"id":"bb274b238a0bbb1f","type":"file","file":"_resources/IMG_20250715_0001.jpg","x":-509,"y":360,"width":539,"height":225},
+		{"id":"a2b3a6667f071507","type":"file","file":"_resources/IMG_20251113_0004.jpg","x":-401,"y":-1100,"width":582,"height":579},
+		{"id":"fa0d9264de11d061","type":"file","file":"_resources/IMG_20251118_0001.jpg","x":840,"y":-500,"width":833,"height":300},
+		{"id":"568c1376bb982a1d","type":"file","file":"_resources/jaded..jpg","x":840,"y":-153,"width":594,"height":600},
+		{"id":"c2a2004cb1374c08","type":"file","file":"_resources/visa_barcode2.jpg","x":420,"y":360,"width":381,"height":400}
+	],
+	"edges":[]
+}

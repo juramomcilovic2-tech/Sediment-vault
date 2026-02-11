@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"efea4c4b46ae1dca","type":"file","file":"_resources/IMG_20250803_0004.jpg","x":-660,"y":-360,"width":380,"height":608},
+		{"id":"2749d0036a04c704","type":"file","file":"_resources/IMG_20240729_0001.jpg","x":-260,"y":-340,"width":430,"height":384},
+		{"id":"cb79a70f7a296ff8","type":"file","file":"_resources/IMG_20250314_0006.jpg","x":220,"y":-456,"width":351,"height":400},
+		{"id":"3f4139740920d9fb","type":"file","file":"_resources/IMG_20250314_0001.jpg","x":-260,"y":80,"width":656,"height":293},
+		{"id":"2bb9bad8eca3c9ad","type":"file","file":"_resources/debeljko2.jpg","x":620,"y":-456,"width":546,"height":582},
+		{"id":"ee1f11c2e67e6cb7","type":"file","file":"_resources/IMG_20251113_0002.jpg","x":-1197,"y":520,"width":670,"height":484},
+		{"id":"5f31eb7e9dac439c","type":"file","file":"_resources/IMG_20251211_0001.jpg","x":199,"y":520,"width":666,"height":485},
+		{"id":"fd6ec81ac7d5be17","type":"file","file":"_resources/IMG_20251113_0003.jpg","x":-490,"y":520,"width":660,"height":485},
+		{"id":"e3ee388e8fb5486b","type":"text","text":"### Skicirka\nStvari iz skicirke koje bi mogle uspješno i dobro funkcionirati u sklopu igre i overall dizajna i vizuala. \n","x":-361,"y":-560,"width":316,"height":150},
+		{"id":"322c86c199a53b08","type":"text","text":"### Skice za igru\nU donjem registru se nalaze skice namjerno i izravno rađene za igru","x":-1162,"y":373,"width":600,"height":100},
+		{"id":"ac3cac41e1d7cfea","type":"file","file":"_resources/jahači2.jpg","x":-1260,"y":-340,"width":559,"height":331},
+		{"id":"eb920cff16622d2c","type":"file","file":"_resources/Spikes3.png","x":-1080,"y":-892,"width":682,"height":482},
+		{"id":"22bbe9815fab4fe8","type":"file","file":"_resources/Snimka zaslona 2025-11-22 122006.png","x":68,"y":-1040,"width":464,"height":535},
+		{"id":"4f57daf4d73bdbe9","type":"file","file":"_resources/Film.mp4","x":620,"y":-1128,"width":640,"height":568},
+		{"id":"0dd1e77f77f32802","type":"file","file":"_resources/IMG_20240913_0002.jpg","x":1320,"y":-828,"width":766,"height":936},
+		{"id":"e08e6e38caad03d2","type":"file","file":"_resources/Sediment_lik_skica1 1.jpg","x":940,"y":373,"width":540,"height":542},
+		{"id":"e5f714c0abac5a4c","type":"file","file":"_resources/Shindo_character_concept2.jpg","x":1540,"y":373,"width":592,"height":897}
+	],
+	"edges":[]
+}
