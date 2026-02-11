@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a5e79d32fbbe0060","type":"group","x":-1040,"y":-560,"width":683,"height":547,"label":"Gordon"},
+		{"id":"73d0f5d4fb1a621a","type":"text","text":"### **ZGRADE**\nVisual test za okolinu igre. Temeljna #metodologija je 3D oblikovanje zgrada i sličnih pozadinskih elemenata u Blenderu, te njihovo obrađivanje unutar programa pod određenim kutovima, tako da su uklopive u pozadinu igre. Na ovaj način, produkcija pozadina je lakša i efektivnija, a u isto vrijeme pomiruje 3D prostor (modeliranje) i 2D estetiku same igre. ","x":-217,"y":-232,"width":705,"height":171},
+		{"id":"a7811be8e95ddd51","type":"file","file":"_resources/building_artstyle_test1.jpg","x":-152,"y":-684,"width":639,"height":452},
+		{"id":"959e479f4091774a","type":"text","text":"#GordonMattaClark\nGordon-Matta-Clark kao referenca za neku raspadajuću (mejbi industrijsku) okolinu i environment. Useful za #Outskirts i prvu zonu igre\n","x":-1040,"y":-173,"width":320,"height":160},
+		{"id":"4c025faa2ce4bbc0","type":"file","file":"_resources/7d1ee178455483.5cab8b98a9f50-1.jpg","x":-940,"y":-560,"width":583,"height":387},
+		{"id":"072b24747347dc43","type":"file","file":"_resources/sediment buidling.png","x":487,"y":-593,"width":515,"height":270},
+		{"id":"f10beaccebe583e0","type":"text","text":"Izvorni modeli modelirani u Blenderu","x":488,"y":-323,"width":424,"height":60}
+	],
+	"edges":[
+		{"id":"3547cf32319c9aca","fromNode":"959e479f4091774a","fromSide":"left","toNode":"4c025faa2ce4bbc0","toSide":"left"},
+		{"id":"fe56f00fe987dbf7","fromNode":"73d0f5d4fb1a621a","fromSide":"top","toNode":"a7811be8e95ddd51","toSide":"left","color":"1"}
+	]
+}

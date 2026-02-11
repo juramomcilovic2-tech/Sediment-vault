@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c9d65093946dc68d","type":"file","file":"_resources/stala.jpg","x":-140,"y":-379,"width":739,"height":526},
+		{"id":"e6f9652c02fd4b73","type":"text","text":"Kolažić","x":-760,"y":147,"width":96,"height":50},
+		{"id":"575a1b9357eea3f2","type":"file","file":"_resources/IMG_20250528_0003.jpg","x":-768,"y":-379,"width":628,"height":526},
+		{"id":"f6a9f73fe92430de","type":"file","file":"_resources/IMG_20241029_0001.jpg","x":-240,"y":-884,"width":719,"height":505},
+		{"id":"821abd056b16d25e","type":"file","file":"_resources/IMG_20241010_0001.jpg","x":-620,"y":-884,"width":320,"height":497},
+		{"id":"38d549ad6735df2d","type":"file","file":"_resources/IMG_20241202_0006.jpg","x":-860,"y":-1120,"width":269,"height":198},
+		{"id":"d95084c7c155c3c7","type":"file","file":"_resources/IMG_20241202_0007.jpg","x":-591,"y":-1120,"width":291,"height":199},
+		{"id":"3c4af8bbb613aff4","type":"text","text":"Stvari građene od puno linija/crtica","x":-860,"y":-840,"width":193,"height":60},
+		{"id":"60833ff4f6c4a95f","type":"file","file":"_resources/IMG_20241118_0001.jpg","x":-925,"y":-1580,"width":400,"height":338},
+		{"id":"aa36c342ff5b2f0e","type":"file","file":"_resources/IMG_20250125_0005.jpg","x":-275,"y":-1102,"width":505,"height":164},
+		{"id":"33cdc9d60e56a2a0","type":"file","file":"_resources/IMG_20250125_0008.jpg","x":280,"y":-1070,"width":400,"height":299}
+	],
+	"edges":[
+		{"id":"7196adbbbf685fe4","fromNode":"e6f9652c02fd4b73","fromSide":"left","toNode":"575a1b9357eea3f2","toSide":"left"},
+		{"id":"56b098a7374448d1","fromNode":"60833ff4f6c4a95f","fromSide":"bottom","toNode":"38d549ad6735df2d","toSide":"top","fromEnd":"arrow","color":"2"}
+	]
+}
