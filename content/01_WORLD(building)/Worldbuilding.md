@@ -1,8 +1,11 @@
 ---
 tags:
   - worldbuilding
+  - rules
+  - terminology
+  - tablica
 ---
-- Base settings and some bullet points for general direction and worldbuilding
+-  Base settings and some bullet points for general direction and worldbuilding
 
 | **Kategorija**         | **Što ide unutra?**                        | **Cilj**          |
 | ---------------------- | ------------------------------------------ | ----------------- |

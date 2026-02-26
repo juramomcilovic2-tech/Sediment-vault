@@ -1,3 +1,10 @@
+---
+tags:
+  - character
+  - terminology
+  - names
+  - worldbuilding
+---
 
 The below are ideas for the protagonist of *Sediment*. 
 
