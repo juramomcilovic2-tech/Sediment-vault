@@ -18,9 +18,6 @@ now!
 Picture was taken at Velesajam near the North 1 gate. 
 Continuing on the collage aesthetic, this character test employed a new workflow. Instead of modelling objects and capturing them at different angles, here I took a picture of this big cast of... something, and it reminded me of a welder's helmet, so I thought a character with this could work really well. Here's the result. 
 
-![[robot_lik3.png]]
+![[robot_lik3.png|390x467]]
 Stay with me on this one. This is the base collage I made from that helmet part you read about a second ago, and mashed it with other various parts and materials you would associate with a construction site. This collage was then used for further test for dithering, ASCII and pixelated patterns. Below are the results.
-
-![[robot_lik3-effectapp 5).png]]
-![[sediment_glitch_animation.gif]]
-
+![[robot_lik3-effectapp 5)-1.png|566x621]]![[sediment_glitch_animation-1.gif]]
