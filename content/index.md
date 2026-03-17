@@ -1,6 +1,8 @@
 # Welcome to...
 ![[Logo_gif-crni_sediment.gif]]
 
+# CHECK OUT THIS WEEK'S [[UPDATE]]
+
 *"Hey, what's this about?"*
 
 I'm glad you asked, mysterious stranger. 

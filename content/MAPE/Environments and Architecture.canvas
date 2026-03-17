@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"3419467e5f9661cb","type":"group","x":5430,"y":-358,"width":2010,"height":2200,"label":"References with more bug-like elements"},
+		{"id":"d0d14fad6eff0775","type":"group","x":-1428,"y":-740,"width":1931,"height":1803,"label":"Outskirts"},
+		{"id":"32e1d376d1ac21bb","type":"group","x":1100,"y":-740,"width":1560,"height":1363,"label":"The Factory"},
+		{"id":"53481869155e77f5","type":"text","text":"","x":-14,"y":102,"width":250,"height":60},
+		{"id":"fa7d56848a708e5e","type":"file","file":"02_OTTI_CITY/The Outskirts.md","x":-920,"y":-720,"width":880,"height":439},
+		{"id":"827398890c00ab06","type":"file","file":"_resources/p1_fvf_siemens_arno_brandlhuber.jpg","x":-1200,"y":-240,"width":711,"height":400,"color":"2"},
+		{"id":"37f1710ec78d66b7","type":"file","file":"_resources/img-6180.jpg","x":-417,"y":-240,"width":675,"height":505},
+		{"id":"ffa7fecb547cf847","type":"file","file":"_resources/1pMifxTRvEMcdF9_DPxxHaw.jpg","x":-1408,"y":265,"width":908,"height":440},
+		{"id":"8d4355baf6132661","type":"file","file":"_resources/Gordon-Matta-Clark-Conical-Inter.jpg","x":-417,"y":368,"width":900,"height":675},
+		{"id":"5ff2176151f18e10","type":"text","text":"# Antivilla","x":-1377,"y":53,"width":177,"height":107},
+		{"id":"127c8240d2036516","type":"text","text":"# Gordon-Matta Clark\n","x":-880,"y":706,"width":288,"height":80},
+		{"id":"a7dad55948cd8fa2","type":"file","file":"02_OTTI_CITY/The Archive.md","x":1040,"y":840,"width":938,"height":580},
+		{"id":"bb187688467c43f7","type":"file","file":"_resources/596_LebbeusWoods_Aerial_Paris_19.jpg","x":1800,"y":-200,"width":527,"height":803},
+		{"id":"20017fcb102e75b8","type":"file","file":"_resources/1LWoods.jpg","x":1120,"y":-200,"width":574,"height":803},
+		{"id":"27417564a1c2d0b7","type":"file","file":"02_OTTI_CITY/The Factory.md","x":1120,"y":-720,"width":863,"height":440},
+		{"id":"45cfd827f74b3c3e","type":"text","text":"# Note: \n- Ovo su trenutne referentne slike za Factory\n(Lebbeus Woods), po likovnom jeziku, sigurno će takvo nešto ići u game, ali estetski malo previše vuče na oronulost i ožiljke koji više pašu Outskirts zoni. \n\n- Tvornica bi trebala biti nešto relativno uredno, arhitektura koja izgleda ***optimizirano i impozantno.*** ","x":2151,"y":-517,"width":489,"height":257},
+		{"id":"ef034600f09c042a","type":"file","file":"_resources/w4mbo8fe3vee1.jpeg","x":1040,"y":1240,"width":1560,"height":803},
+		{"id":"2cefba3180829fa0","type":"text","text":"# Lebbeus Woods","x":995,"y":-260,"width":250,"height":60},
+		{"id":"09f57caf776b1b66","type":"text","text":"# Institut du Monde Arabe ","x":1978,"y":1190,"width":340,"height":50},
+		{"id":"a5322c3423f13608","type":"file","file":"_resources/qnl.jpg","x":1040,"y":2080,"width":1560,"height":878},
+		{"id":"1afcfda4d516841f","type":"file","file":"_resources/Casa-da-Musica-Porto-Portugal.jpg","x":2640,"y":1440,"width":1204,"height":803},
+		{"id":"b25ec18b1372fa1e","type":"text","text":"# Rem Koolhaas","x":3129,"y":1390,"width":226,"height":50},
+		{"id":"3c5fde3de24240eb","type":"file","file":"_resources/1991-Neil_Denari-A-U_246_Mar_p35.jpg","x":2929,"y":-1,"width":852,"height":1156},
+		{"id":"62a6be5fac3cecf3","type":"file","file":"02_OTTI_CITY/The Mesh.md","x":4560,"y":-720,"width":839,"height":362},
+		{"id":"49f9f3e36a0ea303","type":"file","file":"_resources/bw_new_bab-6bdc9f9614e83b10c336f.jpg","x":4320,"y":-185,"width":1108,"height":766},
+		{"id":"a391bb01007936ff","type":"file","file":"_resources/Walking_city_archigram.jpg","x":5262,"y":682,"width":1058,"height":1058},
+		{"id":"2bb91bbb1448302e","type":"file","file":"_resources/av_imagen_vertical.jpg","x":4320,"y":727,"width":823,"height":1022},
+		{"id":"c608af6ec96b82a1","type":"text","text":"# Walking City","x":5753,"y":632,"width":208,"height":50},
+		{"id":"785508863deff11c","type":"text","text":"# Free University of Berlin - Mat-Building","x":4599,"y":669,"width":544,"height":58},
+		{"id":"38d4c6740e90a825","type":"text","text":"# Constant: New Babylon","x":4783,"y":-259,"width":360,"height":74},
+		{"id":"c8e2fed81731d701","type":"file","file":"_resources/video-adidas-pod-system-architec.jpg","x":5553,"y":-185,"width":767,"height":767},
+		{"id":"1a62583d36c5cdc5","type":"text","text":"# Neil Denari","x":6020,"y":-235,"width":208,"height":50},
+		{"id":"f553e679319acc7a","type":"file","file":"_resources/59f5960e14d4c54c4c60bb45497fbcce.jpg","x":6320,"y":682,"width":1038,"height":733},
+		{"id":"315e3dbc7a3c41c0","type":"file","file":"_resources/1051641097_plans-perspective-2.jpg","x":6407,"y":-258,"width":951,"height":914},
+		{"id":"602dd7a209c13028","type":"text","text":"# Francois Roche","x":7053,"y":-308,"width":208,"height":50}
+	],
+	"edges":[
+		{"id":"32d1346146e95434","fromNode":"3c5fde3de24240eb","fromSide":"bottom","toNode":"a7dad55948cd8fa2","toSide":"right","label":"Neil Denari reference iz\nmeđu Tvornice i Arhiva"},
+		{"id":"1d8bd0b64395694b","fromNode":"3c5fde3de24240eb","fromSide":"top","toNode":"32e1d376d1ac21bb","toSide":"right","label":"Neil Denari reference iz\nmeđu Tvornice i Arhiva"}
+	]
+}

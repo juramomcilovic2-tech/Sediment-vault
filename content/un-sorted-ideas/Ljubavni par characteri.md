@@ -1,0 +1,1 @@
+ideja za in-game charactere koji su ljubavni par koji se tokom igre dvoume oko toga imati dijete ili ne. 
