@@ -1,7 +1,7 @@
 # Welcome to...
 ![[Logo_gif-crni_sediment.gif]]
 
-# CHECK OUT THIS WEEK'S [[UPDATE]]
+# CHECK OUT THIS WEEK'S [[UPDATE no.2]]
 
 *"Hey, what's this about?"*
 
